@@ -1,0 +1,35 @@
+body{
+    background-size: 100%;
+    text-align: center;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+}
+
+.sub-heading{
+    width: 100%;
+    margin: -1px;
+    font-size:14px;
+    color:black;
+}
+
+h4{
+    color:white;
+}
+
+input{
+    width: 350px;
+    height:30px;    
+};
+
+
+canvas{
+    box-shadow: 5px 5px 5px white;
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top:10px;
+}
+
